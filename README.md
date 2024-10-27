@@ -5,11 +5,6 @@ This tool is a **basic HTTP stress testing script** written in Python. It sends 
 ## Table of Contents
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [How It Works](#how-it-works)
-- [Disclaimer](#disclaimer)
-- [License](#license)
 
 ---
 
