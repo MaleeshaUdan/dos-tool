@@ -3,7 +3,7 @@ import threading
 import time
 
 # Configuration
-TARGET_URL = "https://www.rjt.ac.lk/"
+TARGET_URL = ""# Enter the url here
 THREAD_COUNT = 10000  # Number of threads to spawn
 REQUESTS_PER_THREAD = 10000  # Number of requests per thread
 DELAY_BETWEEN_REQUESTS = 0.05  # Delay between requests (in seconds)
